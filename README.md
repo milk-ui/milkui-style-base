@@ -1,35 +1,39 @@
 # milkui-style-base
 
-组件描述
+## Introduction
 
-## 效果图
+> 基本样式库
 
-...some images
+## Directory
 
-## 使用
-
-```js
-import Stylebase from 'milkui-style-base';
-
-<Stylebase></Stylebase>
+```
+    milkui-style-base/
+    │
+    ├── variables/
+    │   ├── animate.scss
+    │   ├── border.scss
+    │   ├── color.scss
+    │   ├── component.scss
+    │   ├── font.scss
+    │   ├── icon.scss
+    │   ├── index.scss
+    │   └── spacing.scss
+    │
+    ├── mixins/
+    │   ├── empty
+    
 ```
 
-## 参数
-
-| Properties | Type | Description | Default |
-| -- | -- | -- | -- |
-| className | String | 自定义的 class 类名 | '' |
-
-## 开发
-
-### install
+## Develop
 
 ```bash
-cnpm i milk-dev -g    # 组件开发工具
+cnpm i milk-dev -g    # dev tool
+
 cnpm install
+
 npm start
 ```
 
-## 链接
+## Links
 
 - [Issues](https://github.com/milk-ui/milkui-style-base/issues)
