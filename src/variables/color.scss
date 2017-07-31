@@ -1,0 +1,29 @@
+// 品牌色
+// ---
+$brand-primary: #00d8ff;
+
+// 灰色
+// ---
+$gray-dark: #ebebef;
+$gray-light: #f6f8fa;
+
+// 背景色
+// ---
+$fill-base: #fff;  // 默认背景
+$fill-mask: rgba(0, 0, 0, .6);  // 遮罩背景
+
+// 边框色
+// ---
+$color-border-base: #eee;
+
+// 阴影色
+// ---
+$color-shadow-1: rgba(31, 56, 88, .15);
+
+// 文字颜色
+// ---
+$color-text-base: #000;
+$color-text-base-inverse: #fff;
+$color-text-caption: #888;
+$color-text-paragraph: #333;
+$color-link: $brand-primary;
