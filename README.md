@@ -1,5 +1,9 @@
 # milkui-style-base
 
+[![npm version](https://img.shields.io/npm/v/milkui-style-base.svg?style=flat)](https://www.npmjs.com/package/milkui-style-base) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](README.md)
+
+[![NPM](https://nodei.co/npm/milkui-style-base.png?downloads=true&downloadRank=true)](https://nodei.co/npm/milkui-style-base/)
+
 ## Introduction
 
 > 基本样式库
